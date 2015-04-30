@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/pics">
+        <file>res/drawable/device.png</file>
+    </qresource>
+</RCC>
